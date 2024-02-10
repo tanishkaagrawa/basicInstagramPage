@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color:  rgb(254, 185, 196);
+}
+img{
+    height: 400px;
+    width: 450px;
+}
